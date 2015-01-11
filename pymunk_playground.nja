@@ -1,0 +1,6 @@
+{
+  "venv": "/home/daniel/.virtualenvs/test/bin/python", 
+  "name": "pymunk_playground", 
+  "license": "GNU General Public License v3", 
+  "description": "Playing with pymunk"
+}
